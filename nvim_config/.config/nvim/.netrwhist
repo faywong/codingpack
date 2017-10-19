@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/faywong/repo/qknote'
+let g:netrw_dirhist_2='/Users/faywong/repo/qknote/pages'
+let g:netrw_dirhist_3='/Users/faywong/repo/qknote/pages/index'
+let g:netrw_dirhist_4='/Users/faywong/repo/qknote'
+let g:netrw_dirhist_5='/Users/faywong/repo/blog'
+let g:netrw_dirhist_6='/Users/faywong/repo/qknote'

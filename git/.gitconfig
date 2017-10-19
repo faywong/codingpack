@@ -1,0 +1,13 @@
+[alias]
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	df = diff
+[user]
+	name = faywong
+	email = xxx@xxx.com
+[core]
+	autocrlf = input
